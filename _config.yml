@@ -1,0 +1,28 @@
+name: REBELBASTARD
+favicon: null
+layout_spectrum: 0.23367749736644328
+typography_spectrum: 0.32543520303443074
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4625097909010947
+  lightness: 0.12959908926859498
+  saturation: 0.6871531601063907
+  rhythmicContrast: 0.3329834220930934
+purpose: []
